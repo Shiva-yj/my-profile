@@ -8,8 +8,9 @@ function AboutSection() {
           <img src='/Photo.jpeg' alt='Rakesh' />
         </div>
         <div className='about-copy'>
-          <h1>About Me</h1>
-          <p>Hi! I'm Rakesh, a developer based in India building fast, accessible web experiences.</p>
+          <h1>About
+             Me</h1>
+          <p>Hi! I'm Shivaneshan Y J, a developer based in India building fast, accessible web experiences.</p>
         </div>
       </div>
     </section>
